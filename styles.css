@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+p {
+    color: white;
+    font-family: Comic Sans MS, seoge UI, sans-serif;
+    font-size: larger;
+}
+h1 {
+    color: white;
+    font-family: Comic Sans MS, seoge UI, sans-serif;
+    font-size: 40px;
+}
+a {
+    color: rgb(69, 69, 253); /* im so freaking funny */
+    font-family: Comic Sans MS, seoge UI, sans-serif;
+    font-size: large;
+}
+textarea {
+    font-family: Comic Sans MS, seoge UI, sans-serif;
+    font-size: larger;
+}
+.button {
+    border-radius: 5px;
+    font-size: larger;
+}
+.button:hover {
+    border-radius: 5px;
+    border-color: rgb(78, 129, 78);
+    background-color: rgb(78, 129, 78);
+}
