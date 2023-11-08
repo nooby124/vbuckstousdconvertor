@@ -1,5 +1,5 @@
 function convert() {
-    document.getElementById("theamountinvbucks").innerHTML = ("The amount in USD: " + 0.00799 * Number(document.getElementById("numberofmoney").value))
+    document.getElementById("theamountinvbucks").innerHTML = ("The amount in USD: " + 0.00005434 * Number(document.getElementById("numberofmoney").value))
 }
 
 function setInputFilter(textbox, inputFilter) {
